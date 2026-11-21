@@ -1,0 +1,30 @@
+.include {
+
+    color: darkgoldenrod;
+}
+
+.data {
+
+    color: darkgreen;
+}
+
+.keyword {
+
+    color: blue;
+    font-weight: bold;
+}
+
+.syntax {
+
+    color: blueviolet;
+}
+
+.number {
+
+    color: red;
+}
+
+pre {
+
+    font-size: 2rem;
+}
